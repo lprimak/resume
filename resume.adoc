@@ -135,15 +135,23 @@ WARP Solutions, Inc
 •	Designed & Architected the WARP Content Distributor, which has the ability to distribute content to a server cluster, and communicate with the WARP Load Balancer in real-time to atomically "switch over" to the new content. WARP Content Distributor is written in C++, with a Java/Swing GUI and J2EE back-end.
 •	Invented & Architected the Distributed Database Transaction Clusters, similar in features to the Oracle Real Application Clusters, but using a different approach that drops the requirement for Database Vendor Support.
 
-! [[bearstearns]] 1998-1999 ! *Sr. Architecture Consultant* +
+! [[bearstearns]] 1998-1999
+! [%collapsible]
+.*Sr. Architecture Consultant* +
+====
 Bear Stearns
 
 •	Strike Electronics Communications Network.
 •	Created a Web front-end to Strike ECN (Electronic Communications Network) using Java Applet and a back-end J2EE-based infrastructure using BEA WebLogic Server.
 •	The front-end has trade entry, NASDAQ Level 2, Trade History and Execution screens.
+====
 
-! [[previous-experience]] 1989-1998 ! *Sr. Architecture Consultant* +
-Various Wall Street Investment Banks Specialized in Real-Time trading systems, worked on correctly architecting and improving performance of the Bank's real-time trading platforms.
+! [[previous-experience]] 1989-1998 ! .*Sr. Architecture Consultant* +
+[%collapsible]
+====
+Worked for Wall Street Investment Banks, including JPMorgan Chase, Deusche Bank, Merrill Lynch and others. Specialized in Real-Time trading systems, worked on correctly architecting and improving performance of the Bank's real-time trading platforms.
+====
+
 !===
 
 [patents]
