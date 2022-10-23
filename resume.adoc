@@ -2,6 +2,7 @@
 :imagesdir: images
 :iconsdir: icons
 :nofooter:
+:icons:
 
 = Resume
 
@@ -27,7 +28,7 @@ lenny@hope.nyc.ny.us
 // end::contact[]
 
 // tag::objective[]
-| [.big]*Objective*
+| icon:arrow[fw] [.big]*Objective*
 
 To find a position that utilizes my software architecture, design and development skills to create software that is scalable, maintainable and fully benefits the user,
 // end::objective[]
@@ -109,18 +110,18 @@ Cloud
 // end:skills[]
 
 // tag::summary[]
-| [.big]*Summary*
+| icon:arrow[fw] [.big]*Summary*
 
 Very Strong Java, C/C++, Groovy, Architecture/Object Oriented and Functional Design. Specializing in High-Performance, UNIX & Kernel Programming, Internet Tools, Development, Documentation and team-based project support for 99.999% uptime and massively scalable server software. Experienced in Software Components, APIs, Design Pattern application and mining, software refactoring for re-use, performance improvement, framework and programming tooling application and development. Design and development of components and applications that easily integrate with existing frameworks and interoperate with GUIs, Databases and Networks transparently and are documented using tools such as AsciiDoc and Markdown.
 // end:summary[]
 
 // tag::software[]
-| [.big]*Software*
+| icon:arrow[fw] [.big]*Software*
 
 Linux, MacOS X, UNIX C/C++, Java and Java/Jakarta EE , Docker / Kubernetes, Ansible, Windows, Applications, EJB/Swing / JavaFX/Beans/Rest Services, JNI/JNA, Payara / GlassFish, WebLogic, WebSphere, Oracle, Sybase, Internet Tools (in-depth, kernel level TCP/IP), WWW, HTML5, HTTP, XML / YAML / JSON, DevOps (Jenkins, Ansible, Docket, Kubernetes)
 // end::software
 
-| [.big]*Work History*
+| icon:arrow[fw] [.big]*Work History*
 
 [cols="1a,3a", frame=none, grid=none, separator=!]
 !===
@@ -183,7 +184,7 @@ Worked for Wall Street Investment Banks, including JPMorgan Chase, Deusche Bank,
 // tag::patents[]
 [cols="4a,7a", frame=none, grid=none, separator=!]
 !===
-! [.big]*Patents (Granted)* !
+2+! icon:arrow[fw] [.big]*Patents (Granted)*
 ! -	Patent # 6,389,448 ! Load Balancing
 ! -	Patent # 6,598,077 ! Dynamic Content Routing
 ! -	Patent # 7,443,311 ! Computer Security Chair Device
@@ -191,7 +192,7 @@ Worked for Wall Street Investment Banks, including JPMorgan Chase, Deusche Bank,
 // end::patents[]
 
 // tag::otherprojects[]
-[.big]*Other Projects and prototypes (2000 and prior)*
+icon:arrow[fw] [.big]*Other Projects and prototypes (2000 and prior)*
 [cols="2a,3a", frame=none, grid=none, separator=!]
 !===
 ! -	Dynamic Directory ! Complete peer-to-peer self-contained directory
@@ -202,7 +203,7 @@ Worked for Wall Street Investment Banks, including JPMorgan Chase, Deusche Bank,
 // end::otherprojects[]
 
 // tag::references[]
-| [.big]*References*
+| icon:arrow[fw] [.big]*References*
 
 Furnished upon request.
 // end::references[]

@@ -2,6 +2,7 @@
 :imagesdir: images
 :iconsdir: icons
 :nofooter:
+:icons:
 
 = Resume
 
@@ -12,7 +13,7 @@ Pilot
 | With over twenty years experience as a pilot, I strive to have a safe, varied, and challenging learning experience for every one of my logged hours. No single hour needs to be the same as any other. My priority is to enhance safety, on-time performance and customer satisfaction.
 
 include::resume.adoc[tag=contact]
-| [.big]*Certificates and Ratings*
+| icon:arrow[fw] [.big]*Certificates and Ratings*
 
 - Airline Transport Pilot Certificate (Single and Multi-Engine Land)
 - First Class Medical Certificate (Issued 7/3/2022)
@@ -33,13 +34,13 @@ Certificated Flight Instructor (ASEL)
 
 Rotorcraft-Helicopter (Private Privileges)
 
-| [.big]*Flight Hours*
+| icon:arrow[fw] [.big]*Flight Hours*
 
 - 7300 hours total flight time, 800 hours Turbine PIC, 6400 hours multi engine, 780 actual instrument, 6300 cross country, 5900 hours glass cockpit, 670 single engine, 2200 night, 100 simulated instrument, 100 helicopter, 1750 PIC, 1040 instrument approaches
 - Aircraft Flown: EMB-145, EMB-135, CE-500, PA30, C172, PA28, C177RG, PA30, DA40, MO20, 300CB, PA28R, C182, PA44, PA34, R22
 - Simulators: Frasca 242, CAE EMB-145
 
-| [.big]*Work History*
+| icon:arrow[fw] [.big]*Work History*
 
 [cols="1a,3a", frame=none, grid=none, separator=!]
 !===
@@ -70,7 +71,7 @@ Flow Logix, Inc
 - Developed and managed software projects
 - Consulted for various financial and software companies.
 !===
-| [.big]*Education*
+| icon:arrow[fw] [.big]*Education*
 
 [cols="1a,3a", frame=none, grid=none, separator=!]
 !===
@@ -83,7 +84,7 @@ Aug 2007 ! ATP Flight Academy Multi Engine Training and Rating
 ! 1979-1996 ! Music and Arts School for the Gifted - Kyiv, Ukraine
 !===
 
-| [.big]*Volunteer*
+| icon:arrow[fw] [.big]*Volunteer*
 
 - Helped build and maintain Nature-based Playgrounds for Children
 - Helped maintain Southern Heights Food Forest
