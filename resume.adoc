@@ -56,6 +56,10 @@ Jakarta EE
 
 Java
 
+Jenkins
+
+CI/CD
+
 JSP
 
 Swing / JavaFX
@@ -122,16 +126,16 @@ Linux, MacOS X, UNIX C/C++, Java and Java/Jakarta EE , Docker / Kubernetes, Ansi
 ! 2002-Present ! *President & Software Architect* +
 Flow Logix, Inc
 
-•	Contributed to Payara Server (Java EE Application Server derived from GlassFish), And other Open Source projects at Eclipse Foundation, 
-•	Implemented rolling upgrades of applications to improve uptime for customers.
-•	Improved integration between Payara and Hazelcast to support distributed JCache.
-•	Implemented Clustered Singleton functionality in Payara.
-•	Improved Class Loading architecture of Payara to improve application compatibility.
-•	Enhanced implementation of HTTP session replication to improve performance.
-•	Technologies used are Java (version 6-16), Project Loom, JMS / YAML/ JSON, Ansible and AWS / Docker / Kubernetes
-•	Contributed to numerous OSS projects
-•	Spearheaded an end-to-end software solution for a Transportation/Logistics Company.
-•	Gathered user stories (over 1000) and tranlsated them into usable, maintainable code.
+- Contributed to Payara Server (Java EE Application Server derived from GlassFish), And other Open Source projects at Eclipse Foundation, 
+- Implemented rolling upgrades of applications to improve uptime for customers.
+- Improved integration between Payara and Hazelcast to support distributed JCache.
+- Implemented Clustered Singleton functionality in Payara.
+- Improved Class Loading architecture of Payara to improve application compatibility.
+- Enhanced implementation of HTTP session replication to improve performance.
+- Technologies used are Java (version 6-16), Project Loom, JMS / YAML/ JSON, Ansible and AWS / Docker / Kubernetes
+- Contributed to numerous OSS projects
+- Spearheaded an end-to-end software solution for a Transportation/Logistics Company.
+- Gathered user stories (over 1000) and tranlsated them into usable, maintainable code.
 // end::flowlogix[]
 
 // tag::expressjet[]
@@ -145,11 +149,11 @@ Full-time commercial airline pilot
 ! 1999-2002 ! *President & Chief Technology Officer* +
 WARP Solutions, Inc
 
-•	Managed a development team of 40 people, including teams in the USA, Russia and India.
-•	Invented, Designed & Developed the Patented WARP Load Balancer application, including Kernel-level, TCP/IP driver needed to intercept requests and redirect them to the least loaded server. The kernel driver is multi-threaded, common-code multi-platform driver that runs on Linux, Windows, and MacOS X.
-•	The WARP Load Balancer is the only one in the industry that is completely peer-to-peer, where the decisions are distributed to all nodes, with no central load balancer device, allowing unparalleled scalability. WARP Load Balancer is written using C++ and Java/Swing GUI.
-•	Designed & Architected the WARP Content Distributor, which has the ability to distribute content to a server cluster, and communicate with the WARP Load Balancer in real-time to atomically "switch over" to the new content. WARP Content Distributor is written in C++, with a Java/Swing GUI and J2EE back-end.
-•	Invented & Architected the Distributed Database Transaction Clusters, similar in features to the Oracle Real Application Clusters, but using a different approach that drops the requirement for Database Vendor Support.
+- Managed a development team of 40 people, including teams in the USA, Russia and India.
+- Invented, Designed & Developed the Patented WARP Load Balancer application, including Kernel-level, TCP/IP driver needed to intercept requests and redirect them to the least loaded server. The kernel driver is multi-threaded, common-code multi-platform driver that runs on Linux, Windows, and MacOS X.
+- The WARP Load Balancer is the only one in the industry that is completely peer-to-peer, where the decisions are distributed to all nodes, with no central load balancer device, allowing unparalleled scalability. WARP Load Balancer is written using C++ and Java/Swing GUI.
+- Designed & Architected the WARP Content Distributor, which has the ability to distribute content to a server cluster, and communicate with the WARP Load Balancer in real-time to atomically "switch over" to the new content. WARP Content Distributor is written in C++, with a Java/Swing GUI and J2EE back-end.
+- Invented & Architected the Distributed Database Transaction Clusters, similar in features to the Oracle Real Application Clusters, but using a different approach that drops the requirement for Database Vendor Support.
 // end::warpsolutions[]
 
 // tag::bearstearns[]
@@ -159,9 +163,9 @@ WARP Solutions, Inc
 ====
 Bear Stearns
 
-•	Strike Electronics Communications Network.
-•	Created a Web front-end to Strike ECN (Electronic Communications Network) using Java Applet and a back-end J2EE-based infrastructure using BEA WebLogic Server.
-•	The front-end has trade entry, NASDAQ Level 2, Trade History and Execution screens.
+- Strike Electronics Communications Network.
+- Created a Web front-end to Strike ECN (Electronic Communications Network) using Java Applet and a back-end J2EE-based infrastructure using BEA WebLogic Server.
+- The front-end has trade entry, NASDAQ Level 2, Trade History and Execution screens.
 ====
 // end::bearstearns[]
 
@@ -178,19 +182,21 @@ Worked for Wall Street Investment Banks, including JPMorgan Chase, Deusche Bank,
 [cols="4a,7a", frame=none, grid=none, separator=!]
 !===
 ! [.big]*Patents* !
-! •	Patent # 6,389,448 ! Load Balancing
-! •	Patent # 6,598,077 ! Dynamic Content Routing
-! •	Patent # 7,443,311 ! Computer Security Chair Device
+! -	Patent # 6,389,448 ! Load Balancing
+! -	Patent # 6,598,077 ! Dynamic Content Routing
+! -	Patent # 7,443,311 ! Computer Security Chair Device
 !===
 // end::patents[]
 
 // tag::otherprojects[]
-| [.big]*Other Projects and prototypes (2000 and prior)*
-
-•	Dynamic Directory - Complete peer-to-peer self-contained directory
-•	Distributed Locking Infrastructure
-•	Auto Negotiation Infrastructure - Negotiate anything in real-time
-•	Reliable Multicast infrastructure capable of pumping 40 Megabits per second (10 client scenario) on a 100Mbps network in C++
+[.big]*Other Projects and prototypes (2000 and prior)*
+[cols="2a,3a", frame=none, grid=none, separator=!]
+!===
+! -	Dynamic Directory ! Complete peer-to-peer self-contained directory
+2+! - Distributed Locking Infrastructure
+! -	Auto Negotiation Infrastructure ! Negotiate anything in real-time
+2+! - Reliable Multicast infrastructure capable of pumping 40 Megabits per second (10 client scenario) on a 100Mbps network in C++
+!===
 // end::otherprojects[]
 
 // tag::references[]
