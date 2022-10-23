@@ -10,7 +10,8 @@ Lead Developer / Architect
 | Experienced CTO, Software Architect and Lead Developer.
 Innovator with Four granted US patents. Self-motivated and hard-working.
 
-| [[contact]] [.big]*Contact* +
+// tag::contact[]
+| [.big]*Contact*
 
 *Address* +
 3000 Summit Blvd, +
@@ -21,93 +22,104 @@ Lincoln, NE, 68502
 
 *E-mail*
 lenny@hope.nyc.ny.us
+// end::contact[]
 
-[objective]
+// tag::objective[]
 | [.big]*Objective*
 
 To find a position that utilizes my software architecture, design and development skills to create software that is scalable, maintainable and fully benefits the user,
+// end::objective[]
 
-[skills]
-.10+| [.big]*Skills*
+// tag::skills[]
+.10+|
+[.big]*Skills*
 
-Linux       5/5
+Linux
 
-C           5/5
+C
 
-C++         5/5
+C++
 
-CORBA       5/5
+CORBA
 
-Databases	5/5
+Databases
 
-Debugging	5/5
+Debugging
 
-Functional  5/5
+Functional
 
-HTTP        5/5
+HTTP
 
-WebSphere   4/5
+WebSphere
 
-Jakarta EE  5/5
+Jakarta EE
 
-Java        5/5
+Java
 
-JSP         5/5
+JSP
 
-Swing / JavaFX  4/5	 
+Swing / JavaFX
 
-JMS	        5/5
+JMS
 
-Linux	    5/5
+Linux
 
-Logistics	5/5
+Logistics
 
-Managing	5/5
+Managing
 
-Networks	5/5
+Networks
 
-Object Oriented 5/5
+Object Oriented
 
-Oracle Database 3/5
+Oracle Database
 
-Programming 5/5
+Programming
 
-Real-Time   5/5
+Real-Time
 
-Software architecture	 5/5
+Scalable
 
-Sybase      4/5
+Software architecture
 
-TCP/IP      5/5
+Sybase
 
-Trading systems 5/5
+TCP/IP
 
-Transportation  5/5
+Trading systems
 
-Unix	    5/5
+Aviation
 
-UNIX & Kernel   5/5
+Transportation
 
-WebLogic	 4/5
+Unix
 
-Cloud	    5/5
+UNIX & Kernel
 
-[summary]
+WebLogic
+
+Cloud
+
+// end:skills[]
+
+// tag::summary[]
 | [.big]*Summary*
 
 Very Strong Java, C/C++, Groovy, Architecture/Object Oriented and Functional Design. Specializing in High-Performance, UNIX & Kernel Programming, Internet Tools, Development, Documentation and team-based project support for 99.999% uptime and massively scalable server software. Experienced in Software Components, APIs, Design Pattern application and mining, software refactoring for re-use, performance improvement, framework and programming tooling application and development. Design and development of components and applications that easily integrate with existing frameworks and interoperate with GUIs, Databases and Networks transparently and are documented using tools such as AsciiDoc and Markdown.
+// end:summary[]
 
-[software]
+// tag::software[]
 | [.big]*Software*
 
 Linux, MacOS X, UNIX C/C++, Java and Java/Jakarta EE , Docker / Kubernetes, Ansible, Windows, Applications, EJB/Swing / JavaFX/Beans/Rest Services, JNI/JNA, Payara / GlassFish, WebLogic, WebSphere, Oracle, Sybase, Internet Tools (in-depth, kernel level TCP/IP), WWW, HTML5, HTTP, XML / YAML / JSON, DevOps (Jenkins, Ansible, Docket, Kubernetes)
+// end::software
 
-[history]
 | [.big]*Work History*
 
-[cols="1a,3a", frame=none, grid=none]
+[cols="1a,3a", frame=none, grid=none, separator=!]
 !===
-! [[flowlogix]] 2002-Present ! *President & Software Architect* +
+// tag::flowlogix[]
+! 2002-Present ! *President & Software Architect* +
 Flow Logix, Inc
 
 •	Contributed to Payara Server (Java EE Application Server derived from GlassFish), And other Open Source projects at Eclipse Foundation, 
@@ -120,13 +132,17 @@ Flow Logix, Inc
 •	Contributed to numerous OSS projects
 •	Spearheaded an end-to-end software solution for a Transportation/Logistics Company.
 •	Gathered user stories (over 1000) and tranlsated them into usable, maintainable code.
+// end::flowlogix[]
 
-! [[expressjet]] 2007 - 2020 ! *Commercial Airline Pilot* +
+// tag::expressjet[]
+! 2007 - 2020 ! *Commercial Airline Pilot* +
 ExpressJet Airlines, United Express
 
 Full-time commercial airline pilot
+// end::expressjet[]
 
-! [[warpsolutions]] 1999-2002 ! *President & Chief Technology Officer* +
+// tag::warpsolutions[]
+! 1999-2002 ! *President & Chief Technology Officer* +
 WARP Solutions, Inc
 
 •	Managed a development team of 40 people, including teams in the USA, Russia and India.
@@ -134,10 +150,12 @@ WARP Solutions, Inc
 •	The WARP Load Balancer is the only one in the industry that is completely peer-to-peer, where the decisions are distributed to all nodes, with no central load balancer device, allowing unparalleled scalability. WARP Load Balancer is written using C++ and Java/Swing GUI.
 •	Designed & Architected the WARP Content Distributor, which has the ability to distribute content to a server cluster, and communicate with the WARP Load Balancer in real-time to atomically "switch over" to the new content. WARP Content Distributor is written in C++, with a Java/Swing GUI and J2EE back-end.
 •	Invented & Architected the Distributed Database Transaction Clusters, similar in features to the Oracle Real Application Clusters, but using a different approach that drops the requirement for Database Vendor Support.
+// end::warpsolutions[]
 
-! [[bearstearns]] 1998-1999
-! [%collapsible]
-.*Sr. Architecture Consultant* +
+// tag::bearstearns[]
+! 1998-1999
+! .*Sr. Architecture Consultant* +
+[%collapsible]
 ====
 Bear Stearns
 
@@ -145,32 +163,39 @@ Bear Stearns
 •	Created a Web front-end to Strike ECN (Electronic Communications Network) using Java Applet and a back-end J2EE-based infrastructure using BEA WebLogic Server.
 •	The front-end has trade entry, NASDAQ Level 2, Trade History and Execution screens.
 ====
+// end::bearstearns[]
 
-! [[previous-experience]] 1989-1998 ! .*Sr. Architecture Consultant* +
+// tag::previous-experience[]
+! 1989-1998 ! .*Sr. Architecture Consultant* +
 [%collapsible]
 ====
 Worked for Wall Street Investment Banks, including JPMorgan Chase, Deusche Bank, Merrill Lynch and others. Specialized in Real-Time trading systems, worked on correctly architecting and improving performance of the Bank's real-time trading platforms.
 ====
-
+// end::previous-experience[]
 !===
 
-[patents]
-| [.big]*Patents*
+// tag::patents[]
+[cols="4a,7a", frame=none, grid=none, separator=!]
+!===
+! [.big]*Patents* !
+! •	Patent # 6,389,448 ! Load Balancing
+! •	Patent # 6,598,077 ! Dynamic Content Routing
+! •	Patent # 7,443,311 ! Computer Security Chair Device
+!===
+// end::patents[]
 
-•	Patent # 6,389,448 - Load Balancing
-•	Patent # 6,598,077 – Dynamic Content Routing
-•	Patent # 7,443,311 - Computer Security Chair Device
-
-[otherprojects]
+// tag::otherprojects[]
 | [.big]*Other Projects and prototypes (2000 and prior)*
 
 •	Dynamic Directory - Complete peer-to-peer self-contained directory
 •	Distributed Locking Infrastructure
 •	Auto Negotiation Infrastructure - Negotiate anything in real-time
 •	Reliable Multicast infrastructure capable of pumping 40 Megabits per second (10 client scenario) on a 100Mbps network in C++
+// end::otherprojects[]
 
-[references]
+// tag::references[]
 | [.big]*References*
 
 Furnished upon request.
+// end::references[]
 |===
