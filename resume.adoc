@@ -3,6 +3,8 @@
 :iconsdir: icons
 :nofooter:
 
+= Resume
+
 [cols="1a,2a", frame=none]
 |===
 | [.big]*Lenny Primak* +
@@ -181,7 +183,7 @@ Worked for Wall Street Investment Banks, including JPMorgan Chase, Deusche Bank,
 // tag::patents[]
 [cols="4a,7a", frame=none, grid=none, separator=!]
 !===
-! [.big]*Patents* !
+! [.big]*Patents (Granted)* !
 ! -	Patent # 6,389,448 ! Load Balancing
 ! -	Patent # 6,598,077 ! Dynamic Content Routing
 ! -	Patent # 7,443,311 ! Computer Security Chair Device
