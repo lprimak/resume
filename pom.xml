@@ -31,7 +31,7 @@
                 </dependencies>
                 <configuration>
                     <sourceDirectory>${basedir}</sourceDirectory>
-                    <outputDirectory>${project.build.directory}</outputDirectory>
+                    <outputDirectory>${project.build.directory}/output</outputDirectory>
                     <resources>
                         <resource>
                             <directory>.</directory>
