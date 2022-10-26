@@ -30,11 +30,14 @@
                     </dependency>
                 </dependencies>
                 <configuration>
-                    <sourceDirectory>${basedir}</sourceDirectory>
+                    <sourceDirectory>${basedir}/content</sourceDirectory>
                     <outputDirectory>${project.build.directory}/output</outputDirectory>
+                    <attributes>
+                        <stylesheet>${basedir}/asciidoctor-skins/css/adoc-rocket-panda.css</stylesheet>
+                    </attributes>
                     <resources>
                         <resource>
-                            <directory>.</directory>
+                            <directory>content</directory>
                             <includes>
                                 <include>icons/**</include>
                             </includes>
