@@ -3,6 +3,7 @@
 :iconsdir: icons
 :nofooter:
 :icons:
+:stylesheet: css/adoc-rocket-panda.css
 
 = Resume
 
