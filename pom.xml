@@ -64,10 +64,26 @@
                         <configuration>
                             <outputDirectory>${project.build.directory}/output/asciidoc-pdf</outputDirectory>
                             <backend>pdf</backend>
+                            <skip>${generate.pdf.skip}</skip>
                         </configuration>
                     </execution>
                 </executions>
             </plugin>
         </plugins>
     </build>
+
+    <profiles>
+        <profile>
+            <id>dont-generate-pdf</id>
+            <properties>
+                <generate.pdf.skip>true</generate.pdf.skip>
+            </properties>
+            <activation>
+                <property>
+                    <name>generate.pdf</name>
+                    <value>!true</value>
+                </property>
+            </activation>
+        </profile>
+    </profiles>
 </project>
