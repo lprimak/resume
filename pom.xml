@@ -74,7 +74,7 @@
 
     <profiles>
         <profile>
-            <id>dont-generate-pdf</id>
+            <id>generate-pdf-skip-internal</id>
             <properties>
                 <generate.pdf.skip>true</generate.pdf.skip>
             </properties>
