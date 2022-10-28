@@ -62,6 +62,7 @@
                             <goal>process-asciidoc</goal>
                         </goals>
                         <configuration>
+                            <outputDirectory>${project.build.directory}/output/asciidoc-pdf</outputDirectory>
                             <backend>pdf</backend>
                         </configuration>
                     </execution>
