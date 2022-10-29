@@ -7,7 +7,7 @@
 
 = Resume
 
-[cols="2a,4a", frame=none]
+[cols="2a,6a", frame=none]
 |===
 | [.banner]
 [.big]*Lenny Primak* +
@@ -34,7 +34,8 @@ Airplane Single Engine Land (ATP)
 
 Certificated Flight Instructor (ASEL)
 
-Rotorcraft-Helicopter (Private Privileges)
+Rotorcraft-Helicopter +
+(Private Privileges)
 
 | icon:arrow[fw] [.big]*Flight Hours*
 

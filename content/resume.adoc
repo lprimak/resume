@@ -7,7 +7,7 @@
 
 = Resume
 
-[cols="1a,2a", frame=none]
+[cols="2a,7a", frame=none]
 |===
 | [.banner]
 [.big]*Lenny Primak* +
@@ -184,7 +184,7 @@ Worked for Wall Street Investment Banks, including JPMorgan Chase, Deusche Bank,
 !===
 
 // tag::patents[]
-[cols="5a,7a", frame=none, grid=none, separator=!]
+[cols="7a,10a", frame=none, grid=none, separator=!]
 !===
 2+! icon:arrow[fw] [.big]*Patents (Granted)*
 ! -	Patent # 6,389,448 ! Load Balancing
