@@ -7,7 +7,7 @@
 
 = Resume
 
-[cols="2a,6a", frame=none]
+[cols="5a,12a", frame=none]
 |===
 | [.banner]
 [.big]*Lenny Primak* +
