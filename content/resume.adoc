@@ -3,13 +3,15 @@
 :iconsdir: icons
 :nofooter:
 :icons:
+:notitle:
 
 = Resume
 
 [cols="1a,2a", frame=none]
 |===
-| [.big]*Lenny Primak* +
-Lead Developer / Architect
+| [.banner]
+[.big]*Lenny Primak* +
+CTO / Lead Developer / Architect
 | Experienced CTO, Software Architect and Lead Developer.
 Innovator with Four granted US patents. Self-motivated and hard-working.
 

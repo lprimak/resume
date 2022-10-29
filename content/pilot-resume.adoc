@@ -3,12 +3,14 @@
 :iconsdir: icons
 :nofooter:
 :icons:
+:notitle:
 
 = Resume
 
 [cols="2a,4a", frame=none]
 |===
-| [.big]*Lenny Primak* +
+| [.banner]
+[.big]*Lenny Primak* +
 Pilot
 | With over twenty years experience as a pilot, I strive to have a safe, varied, and challenging learning experience for every one of my logged hours. No single hour needs to be the same as any other. My priority is to enhance safety, on-time performance and customer satisfaction.
 

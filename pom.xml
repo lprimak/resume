@@ -33,13 +33,20 @@
                     <sourceDirectory>${basedir}/content</sourceDirectory>
                     <outputDirectory>${project.build.directory}/output</outputDirectory>
                     <attributes>
-                        <stylesheet>${basedir}/asciidoctor-skins/css/adoc-rocket-panda.css</stylesheet>
+                        <stylesheet>${project.build.directory}/output/css/style.css</stylesheet>
                     </attributes>
                     <resources>
                         <resource>
                             <directory>content</directory>
                             <includes>
                                 <include>icons/**</include>
+                                <include>css/**</include>
+                            </includes>
+                        </resource>
+                        <resource>
+                            <directory>asciidoctor-skins</directory>
+                            <includes>
+                                <include>css/adoc-rocket-panda.css</include>
                             </includes>
                         </resource>
                     </resources>

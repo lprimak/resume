@@ -1,0 +1,8 @@
+@import "css/adoc-rocket-panda.css";
+
+.banner {
+    background-color: rgb(7, 7, 115);
+    color: white;
+    border-radius: 1em;
+    padding: .5em;
+}
