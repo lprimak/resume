@@ -193,6 +193,13 @@ Worked for Wall Street Investment Banks, including JPMorgan Chase, Deusche Bank,
 !===
 // end::patents[]
 
+// tag::memberships[]
+icon:arrow[fw] [.big]*Memberships and Associations*
+
+- Member of ASF - Apache Software Foundation (Shiro Committer)
+- Member of Eclipse Foundation (Jakarta EE)
+// end::memberships[]
+
 // tag::otherprojects[]
 icon:arrow[fw] [.big]*Other Projects and prototypes (2000 and prior)*
 [cols="2a,3a", frame=none, grid=none, separator=!]
