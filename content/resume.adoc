@@ -120,7 +120,7 @@ Very Strong Java, C/C++, Groovy, Architecture/Object Oriented and Functional Des
 // tag::software[]
 | icon:arrow[fw] [.big]*Software*
 
-Linux, MacOS X, UNIX C/C++, Java and Java/Jakarta EE , Docker / Kubernetes, Ansible, Windows, Applications, EJB/Swing / JavaFX/Beans/Rest Services, JNI/JNA, Payara / GlassFish, WebLogic, WebSphere, Oracle, Sybase, Internet Tools (in-depth, kernel level TCP/IP), WWW, HTML5, HTTP, XML / YAML / JSON, DevOps (Jenkins, Ansible, Docket, Kubernetes)
+Linux, MacOS X, UNIX C/C++, Java and Java/Jakarta EE , Docker / Kubernetes, Ansible, Windows, Applications, EJB/Swing / JavaFX/Beans/Rest Services, JNI/JNA, Payara / GlassFish, WebLogic, WebSphere, Oracle, Sybase, Internet Tools (in-depth, kernel level TCP/IP), WWW, HTML5, HTTP, XML / YAML / JSON, DevOps (Jenkins, Ansible, Docker, Kubernetes)
 // end::software
 
 | icon:arrow[fw] [.big]*Work History*
