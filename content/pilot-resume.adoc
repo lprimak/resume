@@ -18,7 +18,7 @@ include::resume.adoc[tag=contact]
 | icon:arrow[fw] [.big]*Certificates and Ratings*
 
 - Airline Transport Pilot Certificate (Single and Multi-Engine Land)
-- First Class Medical Certificate (Issued 7/3/2022)
+- First Class Medical Certificate (Issued 1/2024)
 - Certificated Flight Instructor – ASEL (CFI)
 - Rotorcraft-Helicopter (Private Privileges)
 - FCC Radio Operator's License
@@ -39,7 +39,7 @@ Rotorcraft-Helicopter +
 
 | icon:arrow[fw] [.big]*Flight Hours*
 
-- 7300 hours total flight time, 800 hours Turbine PIC, 6400 hours multi engine, 780 actual instrument, 6300 cross country, 5900 hours glass cockpit, 670 single engine, 2200 night, 100 simulated instrument, 100 helicopter, 1750 PIC, 1040 instrument approaches
+- 7900 hours total flight time, 1300 hours Turbine PIC, 7000 hours multi engine, 880 actual instrument, 7300 cross country, 6900 hours glass cockpit, 690 single engine, 2600 night, 100 simulated instrument, 100 helicopter, 2000 PIC, 1080 instrument approaches
 - Aircraft Flown: EMB-145, EMB-135, CE-500, PA30, C172, PA28, C177RG, PA30, DA40, MO20, 300CB, PA28R, C182, PA44, PA34, R22
 - Simulators: Frasca 242, CAE EMB-145
 
