@@ -3,3 +3,5 @@ Asciidoctor-Resume-Template
 **.docx
 target
 **nbactions.xml
+.idea/
+.DS_Store
