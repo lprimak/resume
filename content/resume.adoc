@@ -35,6 +35,8 @@ lenny@hope.nyc.ny.us
 To find a position that utilizes my software architecture, design and development skills to create software that is scalable, maintainable and fully benefits the user,
 // end::objective[]
 
+*Please Note:* If your selection process includes online coding assessments such as HackerRank or LeetCode, please refrain from contacting me. These assessments do not accurately represent my expertise in real-world software development and architecture.
+
 // tag::skills[]
 .10+|
 [.big]*Skills*
