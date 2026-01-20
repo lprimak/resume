@@ -11,7 +11,7 @@
 |===
 | [.banner]
 [.big]*Lenny Primak* +
-Pilot
+Professional Pilot
 | With over twenty years experience as a pilot, I strive to have a safe, varied, and challenging learning experience for every one of my logged hours. No single hour needs to be the same as any other. My priority is to enhance safety, on-time performance and customer satisfaction.
 
 include::resume.adoc[tag=contact]
@@ -84,6 +84,6 @@ Mar 2006 ! Century Air – Multi Engine Simulator Training Course
 
 | icon:arrow[fw] [.big]*Volunteer*
 
-- Helped build and maintain Nature-based Playgrounds for Children
+- Helped build and maintain nature-based playgrounds for children
 - Designed software for numerous non-profits
 |===
