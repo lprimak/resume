@@ -213,10 +213,4 @@ icon:arrow[fw] [.big]*Other Projects and prototypes (2000 and prior)*
 2+! - Reliable Multicast infrastructure capable of pumping 40 Megabits per second (10 client scenario) on a 100Mbps network in C++
 !===
 // end::otherprojects[]
-
-// tag::references[]
-| icon:arrow[fw] [.big]*References*
-
-Furnished upon request.
-// end::references[]
 |===

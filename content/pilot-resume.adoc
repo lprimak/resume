@@ -12,13 +12,13 @@
 | [.banner]
 [.big]*Lenny Primak* +
 Pilot
-| With over twenty years experience as a pilot, I strive to have a safe, varied, and challenging learning experience for every one of my logged hours. No single hour needs to be the same as any other. My priority is to enhance safety, on-time performance and customer satisfaction.
+| With over twenty years experience as a pilot, I strive to have a safe, varied, and challenging learning experience for every one of my logged hours. No single hour needs to be the same as any other. My priority is to enhance safety, on-time performance and customer satisfaction
 
 include::resume.adoc[tag=contact]
 | icon:arrow[fw] [.big]*Certificates and Ratings*
 
 - Airline Transport Pilot Certificate (Single and Multi-Engine Land)
-- First Class Medical Certificate (Issued 7/2024)
+- First Class Medical Certificate (Issued in 2025)
 - Certificated Flight Instructor – ASEL (CFI)
 - Rotorcraft-Helicopter (Private Privileges)
 - FCC Radio Operator's License
@@ -26,7 +26,7 @@ include::resume.adoc[tag=contact]
 .10+|
 [.big]*Skills*
 
-Safety
+Safety Management
 
 Airplane Multi Engine Land (ATP)
 
@@ -39,16 +39,16 @@ Rotorcraft-Helicopter +
 
 | icon:arrow[fw] [.big]*Flight Hours*
 
-- 8000 hours total flight time, 1300 hours Turbine PIC, 7000 hours multi engine, 880 actual instrument, 7300 cross country, 6900 hours glass cockpit, 690 single engine, 2600 night, 100 simulated instrument, 100 helicopter, 2000 PIC, 1080 instrument approaches
+- 8600 hours total flight time, 2000 hours Jet PIC, 8000 hours multi engine, 1000 actual instrument, 8400 cross country, 7500 hours glass cockpit, 750 single engine, 2500 night, 100 simulated instrument, 100 helicopter, 2800 PIC, 1165 instrument approaches
 - Aircraft Flown: EMB-145, EMB-135, CE-500, PA30, C172, PA28, C177RG, PA30, DA40, MO20, 300CB, PA28R, C182, PA44, PA34, R22
-- Simulators: Frasca 242, CAE EMB-145
+- Simulators: Frasca 242, CAE EMB-145, FlightSafety CE-500
 
 | icon:arrow[fw] [.big]*Work History*
 
 [cols="1a,3a", frame=none, grid=none, separator=!]
 !===
 ! July 2021- +
-Present ! *Part 135 Charter Pilot / Captain* +
+Jan 2026 ! *Part 135 Charter Pilot / Captain* +
 Silverhawk Aviation, Inc
 
 Aircraft Flown: Citation 500 (Encore/Ultra/V)
@@ -57,22 +57,22 @@ Aircraft Flown: Citation 500 (Encore/Ultra/V)
 - Ensured safety of flight for all operations assigned to me
 
 ! June 2007- +
-Sept 2020 ! *Part 121 Air Carrier - First Officer* +
+Sept 2020 ! *Part 121 Air Carrier Pilot* +
 ExpressJet Airlines, Inc
 
 Aircraft Flown: EMB-145, EMB-135
 
-- Perform the First Officer duties to the best of my ability.
-- Assist the Captain in all aspects of aircraft operation.
-- Maintain safety and scheduled operation while gaining valuable flight experience.
+- Performed Pilot duties to the best of my ability.
+- Assisted the Captain in all aspects of aircraft operation.
+- Maintained safety and scheduled operation while gaining valuable flight experience.
 - Based in Newark, NJ and Chicago, IL.
-- Furloughed 9/30/2008 through June 2010, and September 2020
 
-! 1989-Present ! *Computer Programmer / CTO* +
+! 1989-Present ! *Technology Executive / CTO* +
 Flow Logix, Inc
 
-- Developed and managed software projects
+- Developed and managed software projects.
 - Consulted for various financial and software companies.
+- Achieved numerous patents.
 !===
 | icon:arrow[fw] [.big]*Education*
 
@@ -92,7 +92,4 @@ Aug 2007 ! ATP Flight Academy Multi Engine Training and Rating
 - Helped build and maintain Nature-based Playgrounds for Children
 - Helped maintain Southern Heights Food Forest
 - Designed software for numerous non-profits
-|
-include::resume.adoc[tag=patents]
-include::resume.adoc[tag=references]
 |===
