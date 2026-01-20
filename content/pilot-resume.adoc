@@ -76,6 +76,9 @@ Flow Logix, Inc
 
 [cols="1a,3a", frame=none, grid=none, separator=!]
 !===
+! Jan 2006- +
+Mar 2006 ! Century Air – Multi Engine Simulator Training Course
+
 ! 1979-1987 ! Music and Arts School for the Gifted - Kyiv, Ukraine
 !===
 
