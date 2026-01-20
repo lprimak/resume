@@ -12,7 +12,7 @@
 | [.banner]
 [.big]*Lenny Primak* +
 Pilot
-| With over twenty years experience as a pilot, I strive to have a safe, varied, and challenging learning experience for every one of my logged hours. No single hour needs to be the same as any other. My priority is to enhance safety, on-time performance and customer satisfaction
+| With over twenty years experience as a pilot, I strive to have a safe, varied, and challenging learning experience for every one of my logged hours. No single hour needs to be the same as any other. My priority is to enhance safety, on-time performance and customer satisfaction.
 
 include::resume.adoc[tag=contact]
 | icon:arrow[fw] [.big]*Certificates and Ratings*
