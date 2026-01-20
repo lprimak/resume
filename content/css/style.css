@@ -15,3 +15,7 @@ p {
 ul > li p {
     margin-bottom: .1em;
 }
+
+table {
+    margin-bottom: .1em;
+}
