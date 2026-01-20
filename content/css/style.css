@@ -12,6 +12,6 @@ p {
     margin-bottom: 1em;
 }
 
-ul > li {
+ul > li p {
     margin-bottom: .1em;
 }
