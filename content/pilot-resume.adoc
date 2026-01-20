@@ -41,7 +41,6 @@ Rotorcraft-Helicopter +
 
 - 8600 hours total flight time, 2000 hours Jet PIC, 8000 hours multi engine, 1000 actual instrument, 8400 cross country, 7500 hours glass cockpit, 750 single engine, 2500 night, 100 simulated instrument, 100 helicopter, 2800 PIC, 1165 instrument approaches
 - Aircraft Flown: EMB-145, EMB-135, CE-500, PA30, C172, PA28, C177RG, PA30, DA40, MO20, 300CB, PA28R, C182, PA44, PA34, R22
-- Simulators: Frasca 242, CAE EMB-145, FlightSafety CE-500
 
 | icon:arrow[fw] [.big]*Work History*
 
@@ -65,7 +64,6 @@ Aircraft Flown: EMB-145, EMB-135
 - Performed Pilot duties to the best of my ability.
 - Assisted the Captain in all aspects of aircraft operation.
 - Maintained safety and scheduled operation while gaining valuable flight experience.
-- Based in Newark, NJ and Chicago, IL.
 
 ! 1989-Present ! *Technology Executive / CTO* +
 Flow Logix, Inc
@@ -78,12 +76,6 @@ Flow Logix, Inc
 
 [cols="1a,3a", frame=none, grid=none, separator=!]
 !===
-! Jan 2001- +
-Mar 2001 ! Century Air – Multi Engine Simulator Training Course
-
-! July 2006- +
-Aug 2007 ! ATP Flight Academy Multi Engine Training and Rating
-
 ! 1979-1987 ! Music and Arts School for the Gifted - Kyiv, Ukraine
 !===
 
