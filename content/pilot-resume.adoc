@@ -82,6 +82,5 @@ Flow Logix, Inc
 | icon:arrow[fw] [.big]*Volunteer*
 
 - Helped build and maintain Nature-based Playgrounds for Children
-- Helped maintain Southern Heights Food Forest
 - Designed software for numerous non-profits
 |===
