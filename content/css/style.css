@@ -7,3 +7,11 @@
     padding: .3em;
     padding-left: 1em;
 }
+
+p {
+    margin-bottom: 1em;
+}
+
+ul > li {
+    margin-bottom: .1em;
+}
