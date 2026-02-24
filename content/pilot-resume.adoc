@@ -40,7 +40,7 @@ Rotorcraft-Helicopter +
 | icon:arrow[fw] [.big]*Flight Hours*
 
 - 8600 hours total flight time, 2000 hours Jet PIC, 8000 hours multi engine, 1000 actual instrument, 8400 cross country, 7500 hours glass cockpit, 750 single engine, 2500 night, 100 simulated instrument, 100 helicopter, 2800 PIC, 1165 instrument approaches
-- Aircraft Flown: EMB-145, EMB-135, CE-500, PA30, C172, PA28, C177RG, PA30, DA40, MO20, 300CB, PA28R, C182, PA44, PA34, R22
+- Aircraft Flown: EMB-145, EMB-135, CE-560, PA30, C172, PA28, C177RG, PA30, DA40, MO20, 300CB, PA28R, C182, PA44, PA34, R22
 
 | icon:arrow[fw] [.big]*Work History*
 
@@ -50,7 +50,7 @@ Rotorcraft-Helicopter +
 Jan 2026 ! *Part 135 Charter Pilot / Captain* +
 Silverhawk Aviation, Inc
 
-Aircraft Flown: Citation 500 (Encore/Ultra/V)
+Aircraft Flown: Citation 560 (Encore/Ultra/V)
 
 - Prepared all flight plans
 - Ensured safety of flight for all operations assigned to me
