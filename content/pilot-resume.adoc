@@ -15,7 +15,7 @@ Professional Pilot
 | With over twenty years experience as a pilot, I strive to have a safe, varied, and challenging learning experience for every one of my logged hours. No single hour needs to be the same as any other. My priority is to enhance safety, on-time performance and customer satisfaction.
 
 include::resume.adoc[tag=contact]
-| icon:arrow[fw] [.big]*Certificates and Ratings*
+| [.big]*Certificates and Ratings*
 
 - Airline Transport Pilot Certificate (Single and Multi-Engine Land)
 - First Class Medical Certificate (Issued in 2025)
@@ -37,12 +37,12 @@ Certificated Flight Instructor (ASEL)
 Rotorcraft-Helicopter +
 (Private Privileges)
 
-| icon:arrow[fw] [.big]*Flight Hours*
+| [.big]*Flight Hours*
 
 - 8600 hours total flight time, 2000 hours Jet PIC, 8000 hours multi engine, 1000 actual instrument, 8400 cross country, 7500 hours glass cockpit, 750 single engine, 2500 night, 100 simulated instrument, 100 helicopter, 2800 PIC, 1165 instrument approaches
 - Aircraft Flown: EMB-145, EMB-135, CE-560, PA30, C172, PA28, C177RG, PA30, DA40, MO20, 300CB, PA28R, C182, PA44, PA34, R22
 
-| icon:arrow[fw] [.big]*Work History*
+| [.big]*Work History*
 
 [cols="1a,3a", frame=none, grid=none, separator=!]
 !===
@@ -72,7 +72,7 @@ Flow Logix, Inc
 - Consulted for various financial and software companies.
 - Achieved numerous patents.
 !===
-| icon:arrow[fw] [.big]*Education*
+| [.big]*Education*
 
 [cols="1a,3a", frame=none, grid=none, separator=!]
 !===
@@ -82,7 +82,7 @@ Mar 2006 ! Century Air – Multi Engine Simulator Training Course
 ! 1979-1987 ! Music and Arts School for the Gifted - Kyiv, Ukraine
 !===
 
-| icon:arrow[fw] [.big]*Volunteer*
+| [.big]*Volunteer*
 
 - Helped build and maintain nature-based playgrounds for children
 - Designed software for numerous non-profits
